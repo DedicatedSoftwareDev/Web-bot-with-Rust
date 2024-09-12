@@ -1,0 +1,9 @@
+[package]
+name = "web-bot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+thirtyfour = "0.33.0"
+tokio = "1.39.2"
+colored = "2.1.0"
